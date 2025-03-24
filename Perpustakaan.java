@@ -1,3 +1,7 @@
+//SOAL
+// 1. Buat method hitungRoyalti dengan parameter harga 1 buku, yang mengembalikan nilai 10% dari penjualan bulan itu. (1 parameter)
+// 2. Method hitungRoyalti dengan parameter harga 1 buku dan nilai persen yang ingin diambil dari penjualan bulan itu. (2 parameter)
+
 import java.util.Scanner; // Import library Scanner buat input dari user
 
 // Main Class buat jalanin program
